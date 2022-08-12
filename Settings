@@ -1,0 +1,3 @@
+{
+{["Lighting-Data"] = {Ambient = Color3.new(11, 70, 33), Brightness = 3, ClockTime = 14.5, ColorShift_Bottom = Color3.new(0, 0, 0), ColorShift_Top = Color3.new(0, 0, 0), EnvironmentDiffuseScale = 1, EnvironmentSpecularScale = 1, GeographicLatitude = 0, GlobalShadows = true, OutdoorAmbient = Color3.new(70, 70, 70), ShadowSoftness = 0.20000000298023224, TimeOfDay = "14:30:00"}, ["User-Config"] = {CreatorID = "1", NameData = {Font = Enum.Font.Cartoon, Text = "Town Lighting"}, StrokeData = {Color = Color3.new(0, 0, 0), Thickness = 2.1}, Thumbnails = {}}},
+}
